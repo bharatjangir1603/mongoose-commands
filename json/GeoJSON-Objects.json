@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hawa Mahal",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8267, 26.9239] }
+  },
+  {
+    "name": "City Palace Jaipur",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8236, 26.9258] }
+  },
+  {
+    "name": "Jantar Mantar",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8243, 26.9249] }
+  },
+  {
+    "name": "Amer Fort",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8513, 26.9855] }
+  },
+  {
+    "name": "Jal Mahal",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8467, 26.9535] }
+  },
+  {
+    "name": "Albert Hall Museum",
+    "category": "museum",
+    "location": { "type": "Point", "coordinates": [75.8190, 26.9124] }
+  },
+  {
+    "name": "Birla Mandir",
+    "category": "temple",
+    "location": { "type": "Point", "coordinates": [75.8155, 26.8925] }
+  },
+  {
+    "name": "World Trade Park",
+    "category": "mall",
+    "location": { "type": "Point", "coordinates": [75.8058, 26.8534] }
+  },
+  {
+    "name": "Jaipur International Airport",
+    "category": "airport",
+    "location": { "type": "Point", "coordinates": [75.8122, 26.8242] }
+  },
+  {
+    "name": "MI Road Market",
+    "category": "market",
+    "location": { "type": "Point", "coordinates": [75.8126, 26.9182] }
+  },
+  {
+    "name": "Bapu Bazaar",
+    "category": "market",
+    "location": { "type": "Point", "coordinates": [75.8216, 26.9166] }
+  },
+  {
+    "name": "Johari Bazaar",
+    "category": "market",
+    "location": { "type": "Point", "coordinates": [75.8260, 26.9245] }
+  },
+  {
+    "name": "Vaishali Nagar",
+    "category": "residential",
+    "location": { "type": "Point", "coordinates": [75.7483, 26.9124] }
+  },
+  {
+    "name": "Mansarovar",
+    "category": "residential",
+    "location": { "type": "Point", "coordinates": [75.7640, 26.8430] }
+  },
+  {
+    "name": "Malviya Nagar",
+    "category": "residential",
+    "location": { "type": "Point", "coordinates": [75.8051, 26.8546] }
+  },
+  {
+    "name": "Sitapura Industrial Area",
+    "category": "industrial",
+    "location": { "type": "Point", "coordinates": [75.8326, 26.7786] }
+  },
+  {
+    "name": "Rajasthan University",
+    "category": "education",
+    "location": { "type": "Point", "coordinates": [75.8103, 26.8898] }
+  },
+  {
+    "name": "SMS Hospital",
+    "category": "hospital",
+    "location": { "type": "Point", "coordinates": [75.8146, 26.9047] }
+  },
+  {
+    "name": "Fortis Hospital Jaipur",
+    "category": "hospital",
+    "location": { "type": "Point", "coordinates": [75.7380, 26.8984] }
+  },
+  {
+    "name": "Jaigarh Fort",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8493, 26.9858] }
+  },
+  {
+    "name": "Nahargarh Fort",
+    "category": "tourist",
+    "location": { "type": "Point", "coordinates": [75.8166, 26.9533] }
+  },
+  {
+    "name": "Civil Lines Jaipur",
+    "category": "residential",
+    "location": { "type": "Point", "coordinates": [75.7817, 26.9121] }
+  },
+  {
+    "name": "Tonk Road",
+    "category": "road",
+    "location": { "type": "Point", "coordinates": [75.8074, 26.8751] }
+  },
+  {
+    "name": "Chandpole",
+    "category": "area",
+    "location": { "type": "Point", "coordinates": [75.8120, 26.9292] }
+  }
+]
